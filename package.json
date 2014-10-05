@@ -1,0 +1,19 @@
+{
+  "name": "chibipedia",
+  "version": "0.0.0",
+  "description": "Simplify a wikipedia page HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shusaku Uesugi",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "coffee-script": "^1.8.0",
+    "colors": "^1.0.2",
+    "request": "^2.44.0",
+    "sanitize-html": "^1.4.2"
+  }
+}
